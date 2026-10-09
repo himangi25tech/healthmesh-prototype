@@ -1,0 +1,6 @@
+{"ts": "2026-10-08T08:00:00", "session_id": "healthmesh-demo", "kind": "reminder", "text": "Reminder: time for your morning BP pill (window 07:30-09:00)."}
+{"ts": "2026-10-08T08:00:00", "session_id": "healthmesh-demo", "kind": "reminder", "text": "Muse kitchen: milk is running low (0.2 L left). Added to your grocery list."}
+{"ts": "2026-10-08T08:00:00", "session_id": "healthmesh-demo", "kind": "reminder", "text": "Muse kitchen: oats is running low (100 g left). Added to your grocery list."}
+{"ts": "2026-10-08T12:00:00", "session_id": "healthmesh-demo", "kind": "alert", "text": "Heads up: grapefruit can interact with your morning BP pill — check with your doctor or pharmacist before having it."}
+{"ts": "2026-10-08T18:59:00", "session_id": "healthmesh-demo", "kind": "grocery_order", "text": "Muse grocery order draft (2 items): milk 0.1 L, oats 100 g. Take your morning pill with food — oats are running low Evening vitamin absorbs better with a little food — milk is low Say 'order it' to place via your shopping skill."}
+{"ts": "2026-10-08T18:59:00", "session_id": "healthmesh-demo", "kind": "tv_display", "text": "TV overlay: Muse HealthMesh summary for scenario 'grocery-day'. meds: morning_bp_pill=taken, evening_vitamin=pending. grocery draft: 2 item(s) (milk, oats)."}

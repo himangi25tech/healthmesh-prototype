@@ -1,0 +1,13 @@
+{
+  "sim_time": "2026-10-08T18:59:00",
+  "hr": 96,
+  "hrv_ms": 29,
+  "spo2": 98,
+  "bp_sys": 121,
+  "bp_dia": 80,
+  "meds": {
+    "morning_bp_pill": "taken",
+    "evening_vitamin": "pending"
+  },
+  "active_alert": null
+}

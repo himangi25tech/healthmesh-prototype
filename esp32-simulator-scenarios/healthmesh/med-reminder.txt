@@ -1,0 +1,9 @@
+# Muse HealthMesh: medication reminder, node speaking the reminder aloud.
+face=speaking
+caption=Time for your morning BP pill
+wifi=connected
+ble=connected
+paired=true
+link=online
+battery=84
+advance=2000

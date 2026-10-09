@@ -1,0 +1,9 @@
+# Muse HealthMesh: high heart rate alert, hub raised active_alert level alert.
+face=error
+caption=Heart rate high — are you okay?
+wifi=connected
+ble=connected
+paired=true
+link=online
+battery=84
+advance=1200

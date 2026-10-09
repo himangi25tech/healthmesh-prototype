@@ -1,0 +1,9 @@
+# Muse HealthMesh: bedside vitals card, hub state idle (no active alert).
+face=idle
+caption=HR 72 · SpO2 98% · 120/80
+wifi=connected
+ble=connected
+paired=true
+link=online
+battery=84
+advance=1200
