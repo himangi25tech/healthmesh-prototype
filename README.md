@@ -1,5 +1,7 @@
 # Muse HealthMesh — software prototype
 
+https://muse.ai/s/healthmesh-readme-axk6lgouxgxrxlxg
+
 A runnable, hardware-free prototype of the 24/7 personal health assistant
 ("Muse HealthMesh", see the product blueprint at
 `~/workspace/your_files/build-blueprint/build-blueprint.pdf`). No ESP32
